@@ -1,7 +1,7 @@
 # Ecommerce Database
 
 ## Description
-Creates a database, models, and routes to interact with them, allowing a user to simulate an inventory database.
+Creates a database, models, and routes to interact with them, allowing a user to simulate an inventory database. Only represents the backend, however, and will request additional software to make requests.
 
 ## Application in Action
 - <a href="https://watch.screencastify.com/v/bAltSmSTANkr51ksYryF" target="_blank">Part 1: Schema and Seeds</a>
